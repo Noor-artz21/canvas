@@ -38,8 +38,9 @@ img {
     width: 300px;
 }
 
-a {
-    color: cornflowerblue;
+button {
+    color: snow
+    background-color: cornflowerblue;
     font-weight: 900;
     font-size: larger;
 }
