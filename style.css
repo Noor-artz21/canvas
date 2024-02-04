@@ -38,13 +38,8 @@ img {
     width: 300px;
 }
 
-button {
-    border: none;
-    background-color: hsl(254, 86%, 72%);
-    border: ;
-    color: snow;
-    cursor: pointer;
-    width: 130px;
-    height: 40px;
-    border-radius: 5px;
+a {
+    color: cornflowerblue
+    font-weight: 900px;
+    font-size: larger;
 }
