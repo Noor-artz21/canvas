@@ -39,8 +39,12 @@ img {
 }
 
 button {
-    color: snow
-    background-color: cornflowerblue;
-    font-weight: 900;
-    font-size: larger;
+    border: none;
+    background-color: hsl(254, 86%, 72%);
+    border: ;
+    color: snow;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
 }
